@@ -20,7 +20,6 @@ function Feed() {
                 <h2>home</h2>
             </div>
 
-
             { /*Tweetbox*/}
             <TweetBox/>
 
@@ -37,12 +36,6 @@ function Feed() {
                     />
                 ))}
             </FlipMove>
-
-
-
-
-
-
         </div>
     );
 }
